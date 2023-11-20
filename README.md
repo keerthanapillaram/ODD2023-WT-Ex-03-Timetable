@@ -1,4 +1,4 @@
-![image](https://github.com/keerthanapillaram/ODD2023-WT-Ex-03-Timetable/assets/145743072/fd513398-cec9-488c-8680-15f24d128df1)# Ex-04-Timetable 
+# Ex-04-Timetable 
 Name : P.keerthana
 Department : AIML
 ## AIM
