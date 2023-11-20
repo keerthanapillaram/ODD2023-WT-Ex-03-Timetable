@@ -118,7 +118,7 @@ Execute the program
 </html>
 
 
-# OUPUT
+# OUTPUT
 
 
 ![Screenshot 2023-11-20 112346](https://github.com/keerthanapillaram/ODD2023-WT-Ex-03-Timetable/assets/145743072/4618db59-4c5c-4cd9-a6c6-c4c235d99db6)
